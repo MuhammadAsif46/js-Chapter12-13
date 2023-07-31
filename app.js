@@ -44,3 +44,23 @@
 //   number = "this number " + number + " is zero number."
 // }
 // alert(number);
+
+
+
+// ******** Take input from user and show in which alphabet is vowel ********//
+
+// var vowels = prompt("Enter a Alphabet.");
+
+// if (vowels.toLowerCase() === "a"){
+//   alert("TRUE : this alphabet is vowel : " + vowels);
+// }else if (vowels.toLowerCase() === "e"){
+//   alert("TRUE : this alphabet is vowel : " + vowels);
+// }else if (vowels.toLowerCase() === "i"){
+//   alert("TRUE : this alphabet is vowel : " + vowels);
+// }else if (vowels.toLowerCase() === "o"){
+//   alert("TRUE : this alphabet is vowel : " + vowels);
+// }else if (vowels.toLowerCase() === "u"){
+//   alert("TRUE : this alphabet is vowel : " + vowels);
+// }else {
+//   alert("FALSE : this alphabet is not vowel : " + vowels);
+// }
