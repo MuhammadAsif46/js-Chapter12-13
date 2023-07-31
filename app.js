@@ -64,3 +64,18 @@
 // }else {
 //   alert("FALSE : this alphabet is not vowel : " + vowels);
 // }
+
+
+
+// ******** Take input from user and show passwords ********//
+
+// var password = "hello123";
+// var userInput = prompt("enter a password.");
+
+// if (userInput === password){
+//   alert( "“Correct! The password you entered matches the original password”");
+// }else if (userInput === ""){
+//   alert("“Please enter your password””");
+// }else{
+//   alert("Incorrect password !")
+// }
