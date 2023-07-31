@@ -79,3 +79,15 @@
 // }else{
 //   alert("Incorrect password !")
 // }
+
+
+
+// ******** Greeting user  ********//
+
+// var greeting;
+// var hour = 13;
+// if (hour < 18) {
+//     alert(greeting = "Good day " );
+// }else {
+//     alert(greeting = "Good evening "); ;
+// }
