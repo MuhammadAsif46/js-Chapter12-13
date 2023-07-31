@@ -29,3 +29,18 @@
 //   n1 = " the first number " + n1 + " is equal than the second number " + n2 ;
 // }
 // alert(n1);
+
+
+
+// ******** Take input from user and show in which number is positive,negative or zero ********//
+
+// var number = +prompt("ENTER A NUMBER.");
+
+// if (number > 0 ){
+//   number = "this number " + number + " is positive number." 
+// }else if (number < 0){
+//   number = "this number " + number + " is negative number."
+// }else if (number === 0){
+//   number = "this number " + number + " is zero number."
+// }
+// alert(number);
