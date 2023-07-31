@@ -91,3 +91,108 @@
 // }else {
 //     alert(greeting = "Good evening "); ;
 // }
+
+
+
+// ******** Take input from user and shoe time format ********//
+
+// var time = prompt("Enter a Time in 24 hour format");
+
+// if(time === "00"){
+//     alert( "Time : " + time + " = 12am")
+// }
+
+// else if(time === "01"){
+//     alert("Time : "+time+" = 1am")
+// }
+
+// else if(time === "02"){
+//     alert("Time : "+time+" = 2am")
+// }
+
+// else if(time === "03"){
+//     alert("Time : "+time+" = 3am")
+// }
+
+// else if(time === "04"){
+//     alert("Time : "+time+" = 4am")
+// }
+
+// else if(time === "05"){
+//     alert("Time : "+time+" = 5am")
+// }
+
+// else if(time === "06"){
+//     alert("Time : "+time+" = 6am")
+// }
+
+// else if(time === "07"){
+//     alert("Time : "+time+" = 7am")
+// }
+
+// else if(time === "08"){
+//     alert("Time : "+time+" = 8am")
+// }
+
+// else if(time === "09"){
+//     alert("Time : "+time+" = 9am")
+// }
+
+// else if(time === "10"){
+//     alert("Time : "+time+" = 10am")
+// }
+
+// else if(time === "11"){
+//     alert("Time : "+time+" = 11am")
+// }
+
+// else if(time === "12"){
+//     alert("Time : "+time+" = 12pm")
+// }
+
+// else if(time === "13"){
+//     alert("Time : "+time+" = 1pm")
+// }
+
+// else if(time === "14"){
+//     alert("Time : "+time+" = 2pm")
+// }
+
+// else if(time === "15"){
+//     alert("Time : "+time+" = 3pm")
+// }
+
+// else if(time === "16"){
+//     alert("Time : "+time+" = 4pm")
+// }
+
+// else if(time === "17"){
+//     alert("Time : "+time+" = 5pm")
+// }
+
+// else if(time === "18"){
+//     alert("Time : "+time+" = 6pm")
+// }
+
+// else if(time === "19"){
+//     alert("Time : "+time+" = 7pm")
+// }
+
+// else if(time === "20"){
+//     alert("Time : "+time+" = 8pm")
+// }
+
+// else if(time === "21"){
+//     alert("Time : "+time+" = 9pm")
+// }
+
+// else if(time === "22"){
+//     alert("Time : "+time+" = 10pm")
+// }
+
+// else if(time === "23"){
+//     alert("Time : "+time+ " = 11pm")
+// }
+// else{
+//   alert("Wrong Enter ! Time format is 00, 01, 02, 04 ......")
+// }
